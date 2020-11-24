@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: OutreachApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 841643
+Implementation-Vendor-Id: com.cognizant
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/OutreachApp
+Created-By: Maven Integration for Eclipse
+
